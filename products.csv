@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost,SupplierTier
+PROD0001,Laptop,Electronics,76806,47824.37,Preferred
+PROD0002,Monitor,Electronics,8858,6075.33,Premium
+PROD0003,Keyboard,Electronics,1758,914.69,Premium
+PROD0004,Mouse,Electronics,725,407.72,Standard
+PROD0005,Headphones,Electronics,1868,1267.52,Preferred
+PROD0006,Printer,Electronics,24145,13741.85,Premium
+PROD0007,Tablet,Electronics,30796,20710.34,Preferred
+PROD0008,Smartphone,Electronics,26475,20559.12,Preferred
+PROD0009,Office Chair,Furniture,14229,8465.31,Preferred
+PROD0010,Desk,Furniture,11231,6731.24,Standard
+PROD0011,Bookshelf,Furniture,7945,6262.9,Standard
+PROD0012,Filing Cabinet,Furniture,8581,4610.91,Standard
+PROD0013,Conference Table,Furniture,51056,30173.37,Premium
+PROD0014,Sofa,Furniture,40134,24268.18,Premium
+PROD0015,Notebook Pack,Office Supplies,335,169.73,Standard
+PROD0016,Pens,Office Supplies,52,27.04,Standard
+PROD0017,Printer Paper,Office Supplies,648,348.18,Preferred
+PROD0018,Stapler,Office Supplies,261,154.67,Preferred
+PROD0019,Markers,Office Supplies,202,123.38,Standard
+PROD0020,Folders,Office Supplies,276,177.55,Preferred
+PROD0021,Laptop Bag,Accessories,3379,2493.63,Preferred
+PROD0022,USB Hub,Accessories,1733,1341.24,Standard
+PROD0023,Webcam,Accessories,2631,2015.75,Standard
+PROD0024,External Drive,Accessories,6230,3909.85,Standard
+PROD0025,Desk Lamp,Accessories,1976,1335.27,Premium
+PROD0026,Laptop Model 2,Electronics,66496,40109.26,Premium
+PROD0027,Monitor Model 2,Electronics,18373,12715.52,Standard
+PROD0028,Keyboard Model 2,Electronics,867,568.8,Standard
+PROD0029,Mouse Model 2,Electronics,1785,1036.68,Premium
+PROD0030,Headphones Model 2,Electronics,7873,5587.6,Standard
+PROD0031,Printer Model 2,Electronics,27263,21507.01,Preferred
+PROD0032,Tablet Model 2,Electronics,41929,32720.07,Standard
+PROD0033,Smartphone Model 2,Electronics,28753,18344.89,Preferred
+PROD0034,Office Chair Model 2,Furniture,17019,13443.45,Standard
+PROD0035,Desk Model 2,Furniture,11508,8329.39,Standard
+PROD0036,Bookshelf Model 2,Furniture,12610,8600.44,Standard
+PROD0037,Filing Cabinet Model 2,Furniture,17008,10869.6,Preferred
+PROD0038,Conference Table Model 2,Furniture,54098,27127.7,Standard
+PROD0039,Sofa Model 2,Furniture,42535,23352.1,Preferred
+PROD0040,Notebook Pack Model 2,Office Supplies,527,343.67,Preferred
+PROD0041,Pens Model 2,Office Supplies,164,87.0,Standard
+PROD0042,Printer Paper Model 2,Office Supplies,1021,794.79,Standard
+PROD0043,Stapler Model 2,Office Supplies,839,528.53,Preferred
+PROD0044,Markers Model 2,Office Supplies,247,188.89,Preferred
+PROD0045,Folders Model 2,Office Supplies,193,131.41,Standard
+PROD0046,Laptop Bag Model 2,Accessories,3136,1838.14,Standard
+PROD0047,USB Hub Model 2,Accessories,583,337.16,Standard
+PROD0048,Webcam Model 2,Accessories,4510,3172.49,Standard
+PROD0049,External Drive Model 2,Accessories,3062,1871.17,Standard
+PROD0050,Desk Lamp Model 2,Accessories,2685,1663.48,Preferred
+PROD0051,Laptop Model 3,Electronics,47625,26307.12,Preferred
+PROD0052,Monitor Model 3,Electronics,16406,11747.1,Standard
+PROD0053,Keyboard Model 3,Electronics,2766,2133.53,Premium
+PROD0054,Mouse Model 3,Electronics,1157,742.07,Standard
+PROD0055,Headphones Model 3,Electronics,7373,4879.73,Preferred
+PROD0056,Printer Model 3,Electronics,7251,4583.9,Standard
+PROD0057,Tablet Model 3,Electronics,42947,31422.19,Preferred
+PROD0058,Smartphone Model 3,Electronics,53074,27963.36,Preferred
+PROD0059,Office Chair Model 3,Furniture,12662,7732.7,Standard
+PROD0060,Desk Model 3,Furniture,7183,5294.64,Preferred
+PROD0061,Bookshelf Model 3,Furniture,5897,3015.56,Standard
+PROD0062,Filing Cabinet Model 3,Furniture,12779,6723.6,Preferred
+PROD0063,Conference Table Model 3,Furniture,37265,22986.75,Standard
+PROD0064,Sofa Model 3,Furniture,45440,27160.03,Standard
+PROD0065,Notebook Pack Model 3,Office Supplies,569,346.94,Premium
+PROD0066,Pens Model 3,Office Supplies,134,96.76,Standard
+PROD0067,Printer Paper Model 3,Office Supplies,947,678.18,Preferred
+PROD0068,Stapler Model 3,Office Supplies,827,642.02,Standard
+PROD0069,Markers Model 3,Office Supplies,249,146.13,Standard
+PROD0070,Folders Model 3,Office Supplies,431,251.2,Preferred
+PROD0071,Laptop Bag Model 3,Accessories,3340,2398.39,Standard
+PROD0072,USB Hub Model 3,Accessories,957,668.31,Standard
+PROD0073,Webcam Model 3,Accessories,5569,3135.05,Standard
+PROD0074,External Drive Model 3,Accessories,8010,5935.12,Standard
+PROD0075,Desk Lamp Model 3,Accessories,1579,837.24,Premium
+PROD0076,Laptop Model 4,Electronics,81703,49182.8,Standard
+PROD0077,Monitor Model 4,Electronics,20305,14125.31,Preferred
+PROD0078,Keyboard Model 4,Electronics,2408,1741.48,Standard
+PROD0079,Mouse Model 4,Electronics,1178,807.73,Standard
+PROD0080,Headphones Model 4,Electronics,5580,2796.45,Preferred
+PROD0081,Printer Model 4,Electronics,15506,9340.15,Standard
+PROD0082,Tablet Model 4,Electronics,37967,29249.39,Preferred
+PROD0083,Smartphone Model 4,Electronics,52492,35912.6,Standard
+PROD0084,Office Chair Model 4,Furniture,3721,2693.4,Standard
+PROD0085,Desk Model 4,Furniture,8067,6293.88,Preferred
+PROD0086,Bookshelf Model 4,Furniture,5969,4449.39,Premium
+PROD0087,Filing Cabinet Model 4,Furniture,5498,2794.21,Standard
+PROD0088,Conference Table Model 4,Furniture,46172,26789.48,Premium
+PROD0089,Sofa Model 4,Furniture,88340,66068.24,Standard
+PROD0090,Notebook Pack Model 4,Office Supplies,191,116.15,Preferred
+PROD0091,Pens Model 4,Office Supplies,249,175.84,Standard
+PROD0092,Printer Paper Model 4,Office Supplies,672,359.15,Preferred
+PROD0093,Stapler Model 4,Office Supplies,627,440.2,Preferred
+PROD0094,Markers Model 4,Office Supplies,268,157.92,Preferred
+PROD0095,Folders Model 4,Office Supplies,133,70.93,Preferred
+PROD0096,Laptop Bag Model 4,Accessories,2494,1960.83,Preferred
+PROD0097,USB Hub Model 4,Accessories,1158,715.6,Standard
+PROD0098,Webcam Model 4,Accessories,2025,1217.31,Premium
+PROD0099,External Drive Model 4,Accessories,9437,6627.21,Preferred
+PROD0100,Desk Lamp Model 4,Accessories,1233,733.99,Standard
