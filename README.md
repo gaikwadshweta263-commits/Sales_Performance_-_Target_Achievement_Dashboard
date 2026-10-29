@@ -228,6 +228,13 @@ DIVIDE(
 
 These measures provide a foundation for analyzing revenue, profitability, and target achievement. Table and column names must match the actual Power BI model. Target comparisons must also use consistent filters and reporting periods to avoid incorrect totals.
 
+##  Dashboard Screenshot
+
+![Sales Performance & Target Achievement Dashboard](sales_performance_dashboard.png)
+
+![Profit Analysis](profit_analysis.png)
+
+![Target Achievement](target_achievement.png)
 
 ### 7. Results and Insights
 
